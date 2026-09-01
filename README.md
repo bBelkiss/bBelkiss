@@ -11,4 +11,4 @@
  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lbelkiss)](https://twitter.com/dbelkiss) [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&labelColor=1DB954&logo=spotify&logoColor=white&link=https://open.spotify.com/user/1qwg6h6zxe67ecxpt8mtl5w2f?si=b557446ebe884cd9)](https://open.spotify.com/user/1qwg6h6zxe67ecxpt8mtl5w2f?si=b557446ebe884cd9)
  [![GitHub Badge](https://img.shields.io/badge/-UNLP-181717?style=flat-square&labelColor=181717&logo=github&logoColor=white&link=https://github.com/bBelkiss/UNLP-Informatica)](https://github.com/bBelkiss/UNLP-Informatica)
 
- <em> ~ my favorite projects down here ↓ ~ </a><img src="https://github.com/bbelkiss/bbelkiss/blob/main/assets/salt.gif?raw=1" width="55"/></em>
+ <em> ~ ↓ ~ </a><img src="https://github.com/bbelkiss/bbelkiss/blob/main/assets/salt.gif?raw=1" width="55"/></em>
