@@ -1,5 +1,5 @@
 <h1 align="center">
-  i really like music 🎧
+  i love music 🎧
 </h1>
 
 <p align="center">
@@ -12,6 +12,3 @@
   <img src="https://bbelkiss.vercel.app/api/top-played" alt="Top played">
 </p>
 
-<p align="center">
-  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
-</p>
