@@ -4,7 +4,7 @@ hello! here's a little about me:
 
 <h1>
 
-i really like music :headphones:
+  i really like music :headphones:
 
 </h1>
 
@@ -14,13 +14,11 @@ i really like music :headphones:
 
   <a href="https://bbelkiss.vercel.app/api/now-playing?open">
 
-```
-<!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
 
-<img src="https://bbelkiss.vercel.app/api/now-playing">
+    <img src="https://bbelkiss.vercel.app/api/now-playing">
 
-<!-- This is how you'd make the call dynamically <img src="https://bbelkiss.vercel.app/api/now-playing"> -->
-```
+    <!-- This is how you'd make the call dynamically <img src="https://bbelkiss.vercel.app/api/now-playing"> -->
 
   </a>
 
@@ -38,7 +36,7 @@ i really like music :headphones:
 
   <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
 
-<i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
+  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
 
 </p>
 
