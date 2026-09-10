@@ -1,6 +1,7 @@
 {
   "name": "bbelkiss-profile-page",
   "version": "1.2.0",
+  "type": "module",
   "description": "Github profile README.md",
   "main": "index.js",
   "scripts": {
